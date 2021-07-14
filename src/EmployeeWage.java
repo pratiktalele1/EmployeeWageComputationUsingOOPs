@@ -24,5 +24,8 @@ public class EmployeeWage {
 		
 		//getting wages for month;
 		employeeData.WagesForMonth();
+		
+		//getting Wages For Working Hour And Days
+		employeeData.WagesForWorkingHourAndDays();
 	}
 }
